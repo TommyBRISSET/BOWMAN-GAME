@@ -1,0 +1,5 @@
+lang_1 = "en"
+lang_2 = "es"
+lang_3 = "fr"
+lang_4 = "it"
+lang_5 = "pr"

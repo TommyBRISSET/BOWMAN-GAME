@@ -1,0 +1,2 @@
+song_ 1 = on
+song_ 2 = off
